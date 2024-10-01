@@ -1,0 +1,20 @@
+# Ignore the cloned repository
+https-github.com-Galaxical-Water-quality-portability-assessment-/
+
+# Ignore the virtual environment folder
+myenv/
+
+# Ignore Jupyter notebook checkpoints and config files
+.ipynb_checkpoints/
+.jupyter/
+myenv/share/jupyter/
+
+# Ignore Python cache files
+__pycache__/
+*.py[cod]
+
+# Ignore other unwanted files
+*.log
+*.csv  # or other data files that are too large to track
+*.db
+*.tmp
